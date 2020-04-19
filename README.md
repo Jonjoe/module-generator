@@ -33,7 +33,7 @@ registry=https://npm.pkg.github.com/jonjoe
 
 Then install the package ...
 ```
-npm install @jonjoe/react-component-generator
+npm install @jonjoe/module-generator
 ```
 
 
