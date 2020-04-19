@@ -28,7 +28,7 @@ Until I extend this package to work with different repos for more diverse compon
 Add this to your projects .npmrc. If you dont have one just make one and add this line ...
 
 ```
-registry=https://npm.pkg.github.com/jonjoe
+@jonjoe:registry=https://npm.pkg.github.com
 ```
 
 Then install the package ...
