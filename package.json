@@ -1,6 +1,6 @@
 {
   "name": "@jonjoe/module-generator",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Component generator for react components",
   "main": "build/index.js",
   "bin": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jonjoe/module-generator.git"
+    "url": "git+https://github.com/jonjoe/module-generator.git"
   },
   "author": "Jonjoe Whitfield",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jonjoe/module-generator/issues"
+    "url": "https://github.com/jonjoe/module-generator/issues"
   },
-  "homepage": "https://github.com/Jonjoe/module-generator#readme",
+  "homepage": "https://github.com/jonjoe/module-generator#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
