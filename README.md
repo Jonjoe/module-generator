@@ -25,11 +25,11 @@ Until I extend this package to work with different repos for more diverse compon
 ## Install
 
 
-Add this to your projects .npmrc. If you dont have one just make one and add this line ...
+Add this to your projects `.npmrc`. If you dont have one just make one and add this line ...
 
 ```
 @jonjoe:registry=https://npm.pkg.github.com
-//npm.pkg.github.com/:_authToken=628ac9addc29f10fc27fcadfe545f058954e734
+//npm.pkg.github.com/:_authToken=628ac9addc29f10fc27fcadfe545f058954e7341
 ```
 
 Then install the package ...
