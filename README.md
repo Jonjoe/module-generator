@@ -29,6 +29,7 @@ Add this to your projects .npmrc. If you dont have one just make one and add thi
 
 ```
 @jonjoe:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=628ac9addc29f10fc27fcadfe545f058954e734
 ```
 
 Then install the package ...
