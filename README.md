@@ -23,7 +23,10 @@ Until I extend this package to work with different repos for more diverse compon
 ```
 
 ## Install
-Due to github packages being stupid. This cannot be installed via NPM. I will update this week. 
+Install via npm 
+```
+npm i @jonjoe/module-generator
+```
 
 
 ## Usage
