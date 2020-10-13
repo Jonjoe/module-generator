@@ -22,9 +22,6 @@
     "url": "https://github.com/jonjoe/module-generator/issues"
   },
   "homepage": "https://github.com/jonjoe/module-generator#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "devDependencies": {
     "@types/command-line-args": "^5.0.0",
     "@types/jest": "^25.1.5",
