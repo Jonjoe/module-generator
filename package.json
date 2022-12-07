@@ -37,6 +37,6 @@
     "command-line-args": "^5.1.1",
     "replace-in-file": "^5.0.2",
     "rimraf": "^3.0.2",
-    "simple-git": "^1.132.0"
+    "simple-git": "^3.15.0"
   }
 }
